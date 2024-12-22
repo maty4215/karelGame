@@ -4,10 +4,10 @@ Jednoduchá webová hra Karel, ve které můžete ovládat robota jménem Karel 
 
 ## Commands
 
-KROK: Karel se pohybuje v aktuálním směru.
-VLEVOBOK: Otočí Karla doleva.
-POLOZ [barva]: Umístí barvu na aktuální pozici Karla.
-RESET: Vymaže pole a vrátí Karla do výchozí pozice
+- KROK: Karel se pohybuje v aktuálním směru.
+- VLEVOBOK: Otočí Karla doleva.
+- POLOZ [barva]: Umístí barvu na aktuální pozici Karla.
+- RESET: Vymaže pole a vrátí Karla do výchozí pozice
 
 ## Funkce navíc
 
