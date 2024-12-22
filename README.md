@@ -1,4 +1,4 @@
-# karelGame
+# Karel
 
 Jednoduchá webová hra Karel, ve které můžete ovládat robota jménem Karel pomocí příkazů k pohybu po 2D mřížce, umisťování barev a otáčení v různých směrech.
 
